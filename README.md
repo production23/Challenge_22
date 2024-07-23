@@ -84,7 +84,7 @@ print(f"Is 'home_sales' table cached? {is_cached}")
 
 ## Usage
 
-Run the notebook cells sequentially to perform the data analysis tasks. Adjust the paths and parameters as needed.
+Run the notebook cells sequentially to perform the data analysis tasks. Adjust paths/parameters as needed.
 
 ## Conclusion
 
