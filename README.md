@@ -1,13 +1,7 @@
 
 # Home Sales Data Analysis
 
-This notebook, `Home_Sales.ipynb`, demonstrates how to process, analyze, and manipulate home sales data using Apache Spark in Google Colab. 
-
-## Prerequisites
-
-Before running the notebook, ensure you have the following:
-- A Google Colab environment.
-- Access to the internet.
+This notebook, `Home_Sales.ipynb`, demonstrates how to process, analyze, and manipulate home sales data using Apache Spark in Google Colab. It covers data loading, caching, partitioning, and creating temporary views with Parquet formatted data. 
 
 ## Steps
 
@@ -94,4 +88,4 @@ Run the notebook cells sequentially to perform the data analysis tasks. Adjust t
 
 ## Conclusion
 
-This notebook provides a guide to using Apache Spark in Google Colab for processing and analyzing home sales data.
+This notebook provides a comprehensive guide to using Apache Spark in Google Colab for processing and analyzing home sales data. It demonstrates data loading, caching, partitioning, and creating temporary views with Parquet formatted data.
